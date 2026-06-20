@@ -14,13 +14,13 @@
 Sistema de gerenciamento e pagamento de internet.<br>
 Aplicação para controle de clientes, pagamentos e serviços de provedores de internet.
 
-<br><br>
+<br>
 
 🔹 <strong>💈 Point do Barbeiro</strong><br>
 Sistema de agendamento para barbearias.<br>
 Aplicação para gerenciamento de serviços, horários e agendamentos, facilitando a organização do atendimento.
 
-<br><br>
+<br>
 
 🔹 <strong>🌱 Cultivo Digital</strong><br>
 Sistema de gerenciamento agrícola.<br>
