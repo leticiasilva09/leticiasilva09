@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">🚀 Principais Projetos<br><br>💳 PayNet<br>Sistema de gerenciamento e pagamento de internet.<br><br>Aplicação para controle de clientes, pagamentos e serviços de provedores de internet.<br><br>---<br><br>💈 Point do Barbeiro<br>Sistema de agendamento para barbearias.<br><br>Aplicação para gerenciamento de serviços, horários e agendamentos, facilitando a organização do atendimento.<br><br>---<br><br>🌱 Cultivo Digital<br>Sistema de gerenciamento agrícola.<br><br>Aplicação voltada para organização e controle de informações relacionadas ao cultivo e atividades agrícolas.<br><br>---</p>
+<p data-importer="text" align="left">🚀 Principais Projetos<br><br>💳 PayNet<br>Sistema de gerenciamento e pagamento de internet.<br><br>Aplicação para controle de clientes, pagamentos e serviços de provedores de internet.<br><br><hr><br><br>💈 Point do Barbeiro<br>Sistema de agendamento para barbearias.<br><br>Aplicação para gerenciamento de serviços, horários e agendamentos, facilitando a organização do atendimento.<br><br><hr><br><br>🌱 Cultivo Digital<br>Sistema de gerenciamento agrícola.<br><br>Aplicação voltada para organização e controle de informações relacionadas ao cultivo e atividades agrícolas.<br><br><hr></p>
 
 ###
 
