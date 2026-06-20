@@ -89,7 +89,7 @@ Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiê
 
 <hr>
 
-<p data-importer="text" align="left">📫 Entre em contato</p>
+<h2 align="left">📫 Entre em contato</h2>
 
 ###
 
@@ -100,4 +100,3 @@ Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiê
 </div>
 
 <hr>
-###
