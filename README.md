@@ -8,8 +8,6 @@
 
 <h2 align="left">🚀 Principais Projetos</h2>
 
-<hr>
-
 <p align="left">
 
 🔹 <strong>💳 PayNet</strong><br>
