@@ -2,22 +2,6 @@
 
 ###
 
-<h2 align="left">🎯 Área de atuação</h2>
-
-<p align="left">
-
-🔹 <strong>💻 Desenvolvimento Front-end</strong><br>
-Criação de aplicações web utilizando tecnologias modernas, com foco em organização de código, responsividade e boas práticas de desenvolvimento.
-
-<br>
-
-🔹 <strong>🎨 UI Design</strong><br>
-Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiência do usuário através de design e usabilidade.
-
-</p>
-
-<hr>
-
 ###
 
 <h2 align="left">🚀 Principais Projetos</h2>
@@ -44,7 +28,21 @@ Aplicação voltada para organização e controle de informações relacionadas 
 
 ###
 
-<p data-importer="text" align="left">🎯 Área de atuação<br><br>Desenvolvimento Front-end e UI Design, com foco em interfaces funcionais, organizadas e voltadas para uma boa experiência do usuário.</p>
+<h2 align="left">🎯 Área de atuação</h2>
+
+<p align="left">
+
+🔹 <strong>💻 Desenvolvimento Front-end</strong><br>
+Criação de aplicações web utilizando tecnologias modernas, com foco em organização de código, responsividade e boas práticas de desenvolvimento.
+
+<br>
+
+🔹 <strong>🎨 UI Design</strong><br>
+Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiência do usuário através de design e usabilidade.
+
+</p>
+
+<hr>
 
 ###
 
