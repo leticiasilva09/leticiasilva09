@@ -2,7 +2,21 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Desenvolvedora Front-end | 🎨 UI Designer<br><br>Sou estudante de **Análise e Desenvolvimento de Sistemas (5º semestre)**, com foco em desenvolvimento Front-end e criação de interfaces.<br><br>Atualmente desenvolvo aplicações utilizando tecnologias web, aplicando conceitos de organização de código, experiência do usuário e design de interfaces.</p><hr>
+<h2 align="left">🎯 Área de atuação</h2>
+
+<p align="left">
+
+🔹 <strong>💻 Desenvolvimento Front-end</strong><br>
+Criação de aplicações web utilizando tecnologias modernas, com foco em organização de código, responsividade e boas práticas de desenvolvimento.
+
+<br>
+
+🔹 <strong>🎨 UI Design</strong><br>
+Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiência do usuário através de design e usabilidade.
+
+</p>
+
+<hr>
 
 ###
 
