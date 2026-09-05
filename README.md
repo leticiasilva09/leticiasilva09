@@ -6,10 +6,14 @@
 </h3>
 
 #
-
+<br>
 <p data-importer="text" align="left">Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (5º semestre)</strong> no <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong>, com foco em desenvolvimento Front-end e criação de interfaces.<br><br>Atualmente desenvolvo aplicações utilizando tecnologias web, aplicando conceitos de organização de código, experiência do usuário e design de interfaces.</p>
 
+<br>
+
 <h2 align="left">Principais Projetos</h2>
+
+<br>
 
 <p align="left">
 
@@ -31,7 +35,11 @@ Aplicação voltada para organização e controle de informações relacionadas 
 
 </p>
 
+<br>
+
 <h2 align="left">Área de atuação</h2>
+
+<br>
 
 <p align="left">
 
@@ -44,6 +52,8 @@ Criação de aplicações web utilizando tecnologias modernas, com foco em organ
 Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiência do usuário através de design e usabilidade.
 
 </p>
+
+<br>
 
 <h2 align="left">Tecnologias e Ferramentas</h2>
 
@@ -73,7 +83,11 @@ Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+<br>
+
 <h2 align="left">Contribuições no GitHub</h2>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiasilva09/leticiasilva09/output/pacman-contribution-graph-dark.svg">
