@@ -19,7 +19,7 @@ Aplicação para controle de clientes, pagamentos e serviços de provedores de i
 <br>
 
 • <strong>💈 Point do Barbeiro - Sistema de agendamento para barbearias.</strong><br>
-Aplicação para gerenciamento de serviços, horários e agendamentos, facilitando a organização do atendimento.
+Aplicação para gerenciamento de serviços, horários e agendamentos, facilitando a organização da barbearia.
 
 <br>
 
