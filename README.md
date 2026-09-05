@@ -1,4 +1,5 @@
-<h2 data-importer="text" align="center">Olá, eu sou Leticia! 👋</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+👋;Welcome+to+my+profile!+👋)](https://git.io/typing-svg)
+#
 
 ###
 
@@ -10,19 +11,19 @@
 
 <p align="left">
 
-🔹 <strong>💳 PayNet</strong><br>
+• <strong>💳 PayNet</strong><br>
 Sistema de gerenciamento e pagamento de internet.<br>
 Aplicação para controle de clientes, pagamentos e serviços de provedores de internet.
 
 <br>
 
-🔹 <strong>💈 Point do Barbeiro</strong><br>
+• <strong>💈 Point do Barbeiro</strong><br>
 Sistema de agendamento para barbearias.<br>
 Aplicação para gerenciamento de serviços, horários e agendamentos, facilitando a organização do atendimento.
 
 <br>
 
-🔹 <strong>🌱 Cultivo Digital</strong><br>
+• <strong>🌱 Cultivo Digital</strong><br>
 Sistema de gerenciamento agrícola.<br>
 Aplicação voltada para organização e controle de informações relacionadas ao cultivo e atividades agrícolas.
 
@@ -34,12 +35,12 @@ Aplicação voltada para organização e controle de informações relacionadas 
 
 <p align="left">
 
-🔹 <strong>💻 Desenvolvimento Front-end</strong><br>
+• <strong>💻 Desenvolvimento Front-end</strong><br>
 Criação de aplicações web utilizando tecnologias modernas, com foco em organização de código, responsividade e boas práticas de desenvolvimento.
 
 <br>
 
-🔹 <strong>🎨 UI Design</strong><br>
+• <strong>🎨 UI Design</strong><br>
 Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiência do usuário através de design e usabilidade.
 
 </p>
