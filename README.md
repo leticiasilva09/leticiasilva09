@@ -9,31 +9,24 @@
 <br>
 <p data-importer="text" align="left">Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (5º semestre)</strong> no <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong>, com foco em desenvolvimento Front-end e criação de interfaces.<br><br>Atualmente desenvolvo aplicações utilizando tecnologias web, aplicando conceitos de organização de código, experiência do usuário e design de interfaces.</p>
 
-<br>
-
 <h2 align="left">Principais Projetos</h2>
 
 <p align="left">
 
-• <strong>💳 PayNet</strong><br>
-Sistema de gerenciamento e pagamento de internet.<br>
+• <strong>💳 PayNet - Sistema de gerenciamento e pagamento de internet.</strong><br>
 Aplicação para controle de clientes, pagamentos e serviços de provedores de internet.
 
 <br>
 
-• <strong>💈 Point do Barbeiro</strong><br>
-Sistema de agendamento para barbearias.<br>
+• <strong>💈 Point do Barbeiro - Sistema de agendamento para barbearias.</strong><br>
 Aplicação para gerenciamento de serviços, horários e agendamentos, facilitando a organização do atendimento.
 
 <br>
 
-• <strong>🌱 Cultivo Digital</strong><br>
-Sistema de gerenciamento agrícola.<br>
+• <strong>🌱 Cultivo Digital - Sistema de gerenciamento agrícola.</strong><br>
 Aplicação voltada para organização e controle de informações relacionadas ao cultivo e atividades agrícolas.
 
 </p>
-
-<br>
 
 <h2 align="left">Área de atuação</h2>
 
@@ -48,8 +41,6 @@ Criação de aplicações web utilizando tecnologias modernas, com foco em organ
 Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiência do usuário através de design e usabilidade.
 
 </p>
-
-<br>
 
 <h2 align="left">Tecnologias e Ferramentas</h2>
 
