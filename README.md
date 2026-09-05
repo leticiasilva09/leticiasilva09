@@ -13,8 +13,6 @@
 
 <h2 align="left">Principais Projetos</h2>
 
-<br>
-
 <p align="left">
 
 • <strong>💳 PayNet</strong><br>
@@ -38,8 +36,6 @@ Aplicação voltada para organização e controle de informações relacionadas 
 <br>
 
 <h2 align="left">Área de atuação</h2>
-
-<br>
 
 <p align="left">
 
