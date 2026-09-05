@@ -5,13 +5,11 @@
 </p>
 </h3>
 
-###
+#
 
 <p data-importer="text" align="left">Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (5º semestre)</strong> no <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong>, com foco em desenvolvimento Front-end e criação de interfaces.<br><br>Atualmente desenvolvo aplicações utilizando tecnologias web, aplicando conceitos de organização de código, experiência do usuário e design de interfaces.</p>
 
-###
-
-<h2 align="left">🚀 Principais Projetos</h2>
+<h2 align="left">Principais Projetos</h2>
 
 <p align="left">
 
@@ -33,9 +31,7 @@ Aplicação voltada para organização e controle de informações relacionadas 
 
 </p>
 
-###
-
-<h2 align="left">🎯 Área de atuação</h2>
+<h2 align="left">Área de atuação</h2>
 
 <p align="left">
 
@@ -49,9 +45,9 @@ Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiê
 
 </p>
 
-<h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
+<h2 align="left">Tecnologias e Ferramentas</h2>
 
-###
+<br>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -77,22 +73,11 @@ Desenvolvimento de interfaces funcionais e intuitivas, buscando uma boa experiê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/leticiasilva09/leticiasilva09/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/leticiasilva09/leticiasilva09/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<h2 align="left">Contribuições no GitHub</h2>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/leticiasilva09/leticiasilva09/snake-output/snake.svg" alt="Snake animation" />
 
-###
-
 <h2 align="left">📫 Entre em contato</h2>
-
-###
 
 <div data-importer="socials" align="center">
   <a href="mailto:leticiacarvalhoads@gmail.com" target="_blank">
