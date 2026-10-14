@@ -23,7 +23,7 @@ Aplicação para gerenciamento de serviços, horários e agendamentos, facilitan
 
 <br>
 
-• <strong>🌱 Cultivo Digital - Sistema de gerenciamento agrícola.</strong><br>
+• <strong>🌱 Artemis - Sistema de gerenciamento agrícola.</strong><br>
 Aplicação voltada para organização e controle de informações relacionadas ao cultivo e atividades agrícolas.
 
 </p>
